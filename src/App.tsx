@@ -4,7 +4,6 @@ import * as S from "./App.styles";
 
 import { Item } from "./types/Item";
 import { TableArea } from "./components/TableArea";
-import { Category } from "./types/Categories";
 import { categories } from "./data/categories";
 import { items } from "./data/items";
 import { getCurrentMonth, filterListByMonth } from "./helpers/dateFilter";
